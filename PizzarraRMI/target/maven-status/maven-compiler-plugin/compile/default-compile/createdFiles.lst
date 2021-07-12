@@ -1,0 +1,9 @@
+Apis\MetodosRmiInterface.class
+util\FileAccess.class
+rmi\ServidorRmi.class
+util\Methods.class
+Apis\ApplicationConfig.class
+rmi\MethodsRmi.class
+util\DataStatic.class
+util\WeEncoder.class
+Apis\ApisDraw.class
